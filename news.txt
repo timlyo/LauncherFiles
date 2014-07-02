@@ -1,1 +1,2 @@
-thingy and stuff
+<html><b>First News</b>
+<p>Nothing interesting, just a test really</p>
