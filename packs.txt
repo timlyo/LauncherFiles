@@ -1,0 +1,7 @@
+sparkles:
+	versions:
+		1.6.4
+	
+pixelmon:
+	versions:
+		1.6.4
